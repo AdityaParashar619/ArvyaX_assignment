@@ -38,4 +38,4 @@ This project demonstrates API design, backend architecture, and integration of a
 
 ---
 
-## Project Structure
+Insights include total entries, most used ambience, and top detected emotion.
